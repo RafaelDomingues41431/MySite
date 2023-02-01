@@ -5,7 +5,7 @@ function About() {
         <div className='About'>
             <div className='Profile'>
                 <div>
-                    <img className='ProfilePicture' src={'https://rafaeldomingues41431.github.io/Portfolio/Foto.png'} alt='' />
+                    <img className='ProfilePicture' src={'https://rafaeldomingues41431.github.io/MySite/Foto.png'} alt='' />
                 </div>
                 <div className='WhoAmI'>
                     <h3>Who am i?</h3>
@@ -29,13 +29,13 @@ function About() {
                 </div>
             </div>
             <div className='Contacts'>
-                <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/Portfolio/Gmail_icon_(2020).svg.png'} />
+                <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/MySite/Gmail_icon_(2020).svg.png'} />
                 <p className='ContactsText'>rafael.baeta.comingues@gmail.com</p>
-                <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/Portfolio/Mobile-Smartphone-icon.png'} />
+                <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/MySite/Mobile-Smartphone-icon.png'} />
                 <p className='ContactsText'>935377874</p>
-                <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/Portfolio/174857.png'} />
+                <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/MySite/174857.png'} />
                 <a className='ContactsText' href='https://www.linkedin.com/in/rafael-domingues-45511b206/'>https://www.linkedin.com/in/rafael-domingues-45511b206/</a>
-                <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/Portfolio/25231.png'} />
+                <img className='ContactsIcon' src={'https://rafaeldomingues41431.github.io/MySite/25231.png'} />
                 <a className='ContactsText' href='https://github.com/RafaelDomingues41431'>https://github.com/RafaelDomingues41431</a>
             </div>
         </div>
