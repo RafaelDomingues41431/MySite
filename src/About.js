@@ -15,15 +15,15 @@ function About() {
                         improve my skills in software development.
                     </p>
                     <p>
-                        My preference is back-end development (APIs, databases and webapp prototypes).
+                        My preference is back-end development.
                         I have used SpringMVC and ExpressJS to create APIs, JQuery and React for Web Apps.
                         I try to avoid dealing with UI/UX design, i find it difficult to create pleasing and intuitive UIs
                         and feel a bit of annoyance towards tinkering with CSS.
                     </p>
                     <p>
-                        I also have an interest in embedded software, I have academic experience with C/C++ and would
+                        I also have an interest in low level programming, I have academic experience with C/C++ and would
                         like to improve my skills further to write hight quality high performance code.
-                        Regretably when it comes to embedded software itself the most I have done was interact with Arduino LEDs and
+                        Regretably when it comes to embedded software the most I have done was interact with Arduino LEDs and
                         send some text data back and forth.
                     </p>
                 </div>
