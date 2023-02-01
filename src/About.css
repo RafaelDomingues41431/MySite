@@ -1,0 +1,58 @@
+.Profile {
+    position: relative;
+    left: 20vw;
+    top: 10vh;
+    display: grid;
+    width: fit-content;
+    grid-template-columns: 300px 800px;
+}
+
+.ProfilePicture {
+    margin: 50px;
+    border: 2px inset;
+    border-color: lightskyblue;
+    border-radius: 50%;
+    width: min-content;
+    max-width: 200px;
+    max-height: 200px;
+    min-width: 200px;
+    min-height: 200px;
+    object-fit: cover;
+    object-position: 0px 0px;
+}
+
+.WhoAmI {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50px;
+    position: relative;
+    left: 10px;
+}
+
+.AcademicSkills {
+    display: grid;
+    width: fit-content;
+    grid-template-columns: 300px 800px;
+}
+
+.Contacts {
+    position: relative;
+    left: 25vw;
+    top: 30vh;
+    display: grid;
+    width: fit-content;
+    grid-template-columns: 302px 500px;
+}
+
+.ContactsIcon {
+    margin-left: 15vw;
+    max-width: 20px;
+    max-height: 20px;
+}
+
+.ContactsText {
+    position: relative;
+    left: 10px;
+}
+
+
+

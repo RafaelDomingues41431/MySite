@@ -1,0 +1,26 @@
+.Header {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.Brand {
+    position: absolute;
+    left: 10px;
+    color: red;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3.2vw;
+}
+
+.Links {
+    position: absolute;
+    right: 10px;
+}
+
+.NavLink {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3.2vw;
+    width: fit-content;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
